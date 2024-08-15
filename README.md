@@ -10,6 +10,7 @@ Key characteristics of pointers are as follows: <br>
 <br>
 Some basics operations of pointers are as follows : <br>
 * Syntax : <br>
+
 ```
 datatype *var_name
 int* ptr;  // 'ptr' is a pointer to an integer
