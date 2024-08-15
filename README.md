@@ -14,17 +14,20 @@ Some basics operations of pointers are as follows : <br>
 datatype *var_name
 int* ptr;  // 'ptr' is a pointer to an integer
 ```
+
 * Pointer declaration : <br>
 ```
 int* ptr;     // Pointer to an integer
 char* cptr;   // Pointer to a character
 double* dptr; // Pointer to a double
 ```
+
 * Pointer initialization : <br>
 ```
 int var = 10;
 int* ptr = &var;  // ptr now holds the address of 'var'
 ```
+
 * Dereferencing a pointer : <br>
 ```
 int var = 10;
