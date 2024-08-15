@@ -9,6 +9,7 @@ Key characteristics of pointers are as follows: <br>
 3) Dereferencing: You can access or modify the value at the address stored in the pointer using the dereference operator (*). <br>
 <br>
 Some basics operations of pointers are as follows : <br>
+
 * Syntax : <br>
 
 ```
